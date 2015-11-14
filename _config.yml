@@ -1,0 +1,23 @@
+name: Randy Foo
+favicon: null
+layout_spectrum: 0.6484224237501621
+typography_spectrum: 0.9521377561613917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.272436958970502
+  lightness: 0.7880610621068627
+  saturation: 0.48677309788763523
+  rhythmicContrast: 0.38090641237795353
+purpose: []
