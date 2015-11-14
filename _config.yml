@@ -2,6 +2,7 @@ name: Randy Foo
 favicon: null
 layout_spectrum: 0.6484224237501621
 typography_spectrum: 0.9521377561613917
+title: Randy Foo
 cta:
   domain: null
   bucket: null
